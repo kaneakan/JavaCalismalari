@@ -8,8 +8,6 @@ class DortIslem{
 		
 	}
 	
-	
-	
 }
 
 public class ornek02 {
