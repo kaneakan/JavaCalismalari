@@ -13,7 +13,7 @@ public class ornek03 {
 
 	public static void main(String[] args) {
 		
-		DortIslem2 ilksayi=new DortIslem2(67);
+		DortIslem2 ilkSayi=new DortIslem2(67);
 
 	}
 
